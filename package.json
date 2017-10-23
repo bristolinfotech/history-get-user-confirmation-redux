@@ -1,6 +1,6 @@
 {
   "name": "@bristolinfotech/history-get-user-confirmation-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redux integration for history getUserConfirmation",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
